@@ -1,4 +1,5 @@
-### Oversikt over min GitHub 🌱✨
+### Velkommen til min GitHub! Her finner du repositoryene mine, samt litt stats ✨
+### Mitt navn er Martine Holmberg og jeg skriver for tiden bachelor i Anvendt datateknologi 🌱
 
 <!--
 **martineea/martineea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
