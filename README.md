@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>Du er besøkende nummer: </td>
-    <td>![Visitor Count](https://profile-counter.glitch.me/{martineea}/count.svg) /></td>
+    <td>![Visitor Count](https://profile-counter.glitch.me/{martineea}/count.svg)</td>
   </tr>
 </table>
 
