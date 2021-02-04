@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martineea&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Du er besøkende nummer: 
-![Visitor Count](https://profile-counter.glitch.me/{martineea}/count.svg)
+| Du er besøkende nummer:  | 
+| :---: | :---: |
+| ![Visitor Count](https://profile-counter.glitch.me/{martineea}/count.svg) |
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
