@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>Du er besøkende nummer: </td>
+  </tr>
+    <tr>
     <td><img src="https://profile-counter.glitch.me/martineea/count.svg" alt="" /></td>
   </tr>
 </table>
