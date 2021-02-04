@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>Du er besøkende nummer: </td>
-    <td>![Visitor Count](https://profile-counter.glitch.me/{martineea}/count.svg)</td>
+    <td><img src="https://profile-counter.glitch.me/martineea/count.svg" alt="" /></td>
   </tr>
 </table>
+
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
