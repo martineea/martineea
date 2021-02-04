@@ -27,8 +27,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+</br></br>
 
-### For tiden jobber jeg med bachelorprosjektet. Ta gjerne en titt på prosessen her:
+### For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 Ta gjerne en titt på prosessen her:
 - [Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#)
 - [Repository](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
