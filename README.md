@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 </table>
 
 
+### For tiden jobber jeg med bachelorprosjektet. Ta gjerne en titt på prosessen her:
+- [Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#)
+- [Repository](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
+
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
