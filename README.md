@@ -68,15 +68,6 @@ Ta gjerne en titt på prosessen her:
 
 </br>
 
-
-💬 Programming Languages: 
-JavaScript               3 hrs 17 mins       ██████████████████░░░░░░░   1.59% 
-JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   90.71% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
