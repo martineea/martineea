@@ -69,6 +69,18 @@ Ta gjerne en titt på prosessen her:
 </br>
 
 
+**Denne uken har jeg brukt tiden min på:**
+<!--START_SECTION:waka-->
+```text
+C++        12 hrs 38 mins  █████████████████████▒░░░   85.87 % 
+HTML       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Markdown   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+YAML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+```
+<!--END_SECTION:waka-->
+
+
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
