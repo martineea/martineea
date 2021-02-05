@@ -50,20 +50,19 @@ Ta gjerne en titt på prosessen her:
 > - [Oblig 1 (gruppe på 2)](https://github.com/martineea/AlgDat_Oblig1/)
 > ### Testing av programvare:
 > - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
+</br>
 
 > 2019
-
-### Programutvikling:
-- [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
-- [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
+> ### Programutvikling:
+> - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
+> - [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
+</br>
 
 > 2018
-
-### Programmering:
-- [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
-
-### Webprosjekt:
-- [Eksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
+> ### Programmering:
+> - [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
+> ### Webprosjekt:
+> - [Eksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
 
 
 </br>
