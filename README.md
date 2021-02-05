@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </table>
 -->
 
-</br></br>
+</br>
 
 ## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
 Ta gjerne en titt på prosessen her:
