@@ -39,10 +39,6 @@ Ta gjerne en titt på prosessen her:
 
 ## Repository til andre fag jeg har jobbet med 🤖 </br>
 
-<details>	
-  <summary><b>Repository til andre fag jeg har jobbet med 🤖 /b></summary>
-
-
 > 2020
 > ### Webapplikasjoner:
 > - [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
@@ -73,8 +69,10 @@ Ta gjerne en titt på prosessen her:
 </br>
 
 
-
-
+<details>	
+  <summary><b>Test på trekkspill</b></summary>
+  
+  ## HELLO WORLD
 
 </details>
 
