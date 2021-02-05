@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martineea&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +25,7 @@ Here are some ideas to get you started:
     <td><img src="https://profile-counter.glitch.me/martineea/count.svg" alt="" /></td>
   </tr>
 </table>
+-->
 
 </br></br>
 
@@ -60,7 +60,7 @@ Ta gjerne en titt på prosessen her:
 
 > 2018
 > ### Programmering:
-> - [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
+> - [Obliger (individuell)](https://github.com/martineea/Programmering_obliger/)
 > ### Webprosjekt:
 > - [Mappeksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
 
