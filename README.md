@@ -39,8 +39,46 @@ Ta gjerne en titt på prosessen her:
 ### Repository til andre fag jeg har jobbet med 🤖 </br>
 
 Webapplikasjoner:
-- [Individuell oppgave: lage en FAQ side](https://github.com/martineea/Webapplikasjoner_3Individuell/)
-- [Gruppeoppgave 1: Lage en bestillingsside for Nor-Way Bussekspress og gruppeoppgave 2: lage en adminside for vedlikehold av data](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
+- [Individuell oppgave: Lage en FAQ side](https://github.com/martineea/Webapplikasjoner_3Individuell/)
+- [Gruppeoppgave 1 og 2: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
+
+</br>
+
+Webprogrammering:
+- [Ukesoppgaver](https://github.com/martineea/Webprogrammering_ukesoppgaver/)
+- [Obliger](https://github.com/martineea/Webprogrammering_obliger/)
+
+</br>
+
+Programmering:
+- [Oblier](https://github.com/martineea/Programmering_obliger/)
+
+</br>
+
+Programutvikling:
+- [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
+- [Oblier](https://github.com/martineea/Programutvikling_obliger/)
+
+</br>
+
+Algoritmer og datastrukturer:
+- [Mappeeksamen (individuell oppgave)](https://github.com/martineea/Mappeeksamen_AlgDat/)
+- [Oblig 1 (gruppe på 2)](https://github.com/martineea/AlgDat_Oblig1/)
+
+</br>
+
+Testing av programvare:
+- [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
+
+</br>
+
+Webprosjekt:
+- [Eksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
+
+</br>
+
+
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
