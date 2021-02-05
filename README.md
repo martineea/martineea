@@ -62,7 +62,7 @@ Ta gjerne en titt på prosessen her:
 > ### Programmering:
 > - [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
 > ### Webprosjekt:
-> - [Eksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
+> - [Mappeksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
 
 
 </br>
