@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 </br></br>
 
-### For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
+## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
 Ta gjerne en titt på prosessen her:
 - [Nettside: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#)
 - [Repository](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
 </br></br>
 
-### Repository til andre fag jeg har jobbet med 🤖 </br>
+## Repository til andre fag jeg har jobbet med 🤖 </br>
 
 Webapplikasjoner:
 - [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
