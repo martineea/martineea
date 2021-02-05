@@ -101,6 +101,6 @@ Ta gjerne en titt på prosessen her:
 
 </details>
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula&no-bg=true)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula&no-bg=true&no-frame=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
