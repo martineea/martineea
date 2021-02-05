@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
 Ta gjerne en titt på prosessen her:
 - [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#)
-- [Repository til prosjektet](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
+- [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
 </br></br>
 
