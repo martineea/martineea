@@ -39,25 +39,25 @@ Ta gjerne en titt på prosessen her:
 ### Repository til andre fag jeg har jobbet med 🤖 </br>
 
 Webapplikasjoner:
-- [Individuell oppgave: Lage en FAQ side](https://github.com/martineea/Webapplikasjoner_3Individuell/)
-- [Gruppeoppgave 1 og 2: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
+- [Semesteroppgave 3/3: Lage en FAQ-side (individuell oppgave)](https://github.com/martineea/Webapplikasjoner_3Individuell/)
+- [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
 
 </br>
 
 Webprogrammering:
 - [Ukesoppgaver](https://github.com/martineea/Webprogrammering_ukesoppgaver/)
-- [Obliger](https://github.com/martineea/Webprogrammering_obliger/)
+- [Obliger (individuell)](https://github.com/martineea/Webprogrammering_obliger/)
 
 </br>
 
 Programmering:
-- [Oblier](https://github.com/martineea/Programmering_obliger/)
+- [Oblier (individuell](https://github.com/martineea/Programmering_obliger/)
 
 </br>
 
 Programutvikling:
 - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
-- [Oblier](https://github.com/martineea/Programutvikling_obliger/)
+- [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
 
 </br>
 
