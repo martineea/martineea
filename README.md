@@ -96,7 +96,7 @@ Ta gjerne en titt på prosessen her:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=martineea&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=martineea&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </details>
