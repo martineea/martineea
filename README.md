@@ -90,6 +90,7 @@ Ta gjerne en titt på prosessen her:
 <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
 <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
 <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
+<code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="25"></a></code>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
