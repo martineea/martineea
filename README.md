@@ -95,7 +95,7 @@ Ta gjerne en titt på prosessen her:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-
+### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=martineea&theme=dracula&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 
