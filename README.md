@@ -101,6 +101,10 @@ Ta gjerne en titt på prosessen her:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=martineea&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 </details>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineea&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
