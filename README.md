@@ -38,7 +38,7 @@ Ta gjerne en titt på prosessen her:
 
 ## Repository til andre fag jeg har jobbet med 🤖 </br>
 
-### 2020
+> 2020
 
 ### Webapplikasjoner:
 - [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
@@ -55,13 +55,13 @@ Ta gjerne en titt på prosessen her:
 ### Testing av programvare:
 - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
 
-### 2019
+> 2019
 
 ### Programutvikling:
 - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
 - [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
 
-### 2018
+> 2018
 
 ### Programmering:
 - [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
