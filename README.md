@@ -38,42 +38,37 @@ Ta gjerne en titt på prosessen her:
 
 ## Repository til andre fag jeg har jobbet med 🤖 </br>
 
+### 2020
+
 ### Webapplikasjoner:
 - [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
 - [Semesteroppgave 3/3: Lage en FAQ-side (individuell oppgave)](https://github.com/martineea/Webapplikasjoner_3Individuell/)
-
-</br>
 
 ### Webprogrammering:
 - [Ukesoppgaver](https://github.com/martineea/Webprogrammering_ukesoppgaver/)
 - [Obliger (individuell)](https://github.com/martineea/Webprogrammering_obliger/)
 
-</br>
+### Algoritmer og datastrukturer:
+- [Mappeeksamen (individuell oppgave)](https://github.com/martineea/Mappeeksamen_AlgDat/)
+- [Oblig 1 (gruppe på 2)](https://github.com/martineea/AlgDat_Oblig1/)
 
-### Programmering:
-- [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
+### Testing av programvare:
+- [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
 
-</br>
+### 2019
 
 ### Programutvikling:
 - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
 - [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
 
-</br>
+### 2018
 
-### Algoritmer og datastrukturer:
-- [Mappeeksamen (individuell oppgave)](https://github.com/martineea/Mappeeksamen_AlgDat/)
-- [Oblig 1 (gruppe på 2)](https://github.com/martineea/AlgDat_Oblig1/)
-
-</br>
-
-### Testing av programvare:
-- [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
-
-</br>
+### Programmering:
+- [Obliger (individuell](https://github.com/martineea/Programmering_obliger/)
 
 ### Webprosjekt:
 - [Eksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
+
 
 </br>
 
