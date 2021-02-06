@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.pufler.dev/visits/martineea/martineea)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/martineea)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/martineea)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/martineea)](https://badges.pufler.dev)
-
-
-
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/martineea)](https://badges.pufler.dev)[![Commits Badge](https://badges.pufler.dev/commits/yearly/martineea)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/all/martineea)](https://badges.pufler.dev)
 
 
 </br>
@@ -35,10 +33,8 @@ Ta gjerne en titt på prosessen her:
 - [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#) 
 - [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
+[![Created Badge](https://badges.pufler.dev/created/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
-
-[![Created Badge](https://badges.pufler.dev/created/martineea/bachelorgruppe32.github.io)](https://badges.pufler.dev)
-
 
 </br></br>
 
