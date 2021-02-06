@@ -94,6 +94,7 @@ Ta gjerne en titt på prosessen her:
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp;
 <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>&nbsp;
+- Spring Boot 
 
 ### Verion control: </br>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
