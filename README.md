@@ -58,7 +58,7 @@ Ta gjerne en titt på prosessen her:
 </br>
 
 <details>	
-  <summary><b>HELLO WORLD</b></summary>
+  <summary><b>In progress</b></summary>
   
 ## Språk og verktøy jeg har jobbet med
 <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
@@ -83,8 +83,13 @@ Ta gjerne en titt på prosessen her:
 <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
 <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
 
+</details>
 
-## GitHub Trophy
+
+<details>	
+  <summary><b>Bare for morro</b></summary>
+  
+  ## GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=martineea&theme=dracula&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table>
@@ -95,7 +100,6 @@ Ta gjerne en titt på prosessen her:
     <td><img src="https://profile-counter.glitch.me/martineea/count.svg" alt="" /></td>
   </tr>
 </table>
-
 
 </details>
 
