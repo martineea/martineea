@@ -57,15 +57,13 @@ Here are some ideas to get you started:
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">&nbsp;
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
 
-### IDE </br>
-IntelliJ, Visual Studio, Rider, Netbeans, Coolbeans, 
+### IDE: </br>
 <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+- IntelliJ, Visual Studio, Rider, Netbeans, Coolbeans
 
-### Testing </br>
-SoapUI, Katalon Studio, 
 
-### Annet </br>
-JASP
+### Testing: </br>
+- SoapUI, Katalon Studio
 
 </details>
 
@@ -107,6 +105,7 @@ JASP
 <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>&nbsp;
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>&nbsp;
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+- JASP
 
 </details>
 
