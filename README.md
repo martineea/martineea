@@ -58,12 +58,9 @@ Ta gjerne en titt på prosessen her:
 </br>
 
 <details>	
-  <summary><b>### Test på trekkspill</b></summary>
+  <summary><b>HELLO WORLD</b></summary>
   
-  ## HELLO WORLD
-  
-  
-### Språk og verktøy jeg har jobbet med
+## Språk og verktøy jeg har jobbet med
 <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
@@ -82,12 +79,12 @@ Ta gjerne en titt på prosessen her:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-### Språk og verktøy under opplæring
+## Språk og verktøy under opplæring
 <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
 <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
 
 
-### GitHub Trophy
+## GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=martineea&theme=dracula&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table>
