@@ -35,7 +35,7 @@ Ta gjerne en titt på prosessen her:
 - [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#) 
 - [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
-[![Updated Badge](https://badges.pufler.dev/updated/martineea/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
 
 [![Created Badge](https://badges.pufler.dev/created/martineea/bachelorgruppe32.github.io)](https://badges.pufler.dev)
 
