@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </br>
 
 ## Språk og verktøy jeg har jobbet med
+(under konstruksjon)
 <details>	
   <summary><b>Data</b></summary>
   
