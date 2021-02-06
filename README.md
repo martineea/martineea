@@ -58,14 +58,21 @@ Here are some ideas to get you started:
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
 
 ### IDE </br>
+IntelliJ, Visual Studio, Rider, Netbeans, Coolbeans, 
 <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+
+### Testing </br>
+SoapUI, Katalon Studio, 
+
+### Annet </br>
+JASP
 
 </details>
 
 <details>	
   <summary><b>Under opplæring</b></summary>
   
-## Språk og verktøy under opplæring
+### Språk og verktøy under opplæring
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
 <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>&nbsp;
 <!--<code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>-->
