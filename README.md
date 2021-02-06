@@ -26,6 +26,49 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/martineea)](https://badges.pufler.dev)
 </br>
 
+</br>
+
+## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
+Ta gjerne en titt på prosessen her:
+- [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#) 
+- [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
+
+[![Created Badge](https://badges.pufler.dev/created/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev) </br>
+[![Updated Badge](https://badges.pufler.dev/updated/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
+
+</br>
+
+## Repository til andre fag jeg har jobbet med 🤖 </br>
+
+> 2020
+> ### Webapplikasjoner:
+> - [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
+> - [Semesteroppgave 3/3: Lage en FAQ-side (individuell oppgave)](https://github.com/martineea/Webapplikasjoner_3Individuell/)
+> ### Webprogrammering:
+> - [Ukesoppgaver](https://github.com/martineea/Webprogrammering_ukesoppgaver/)
+> - [Obliger (individuell)](https://github.com/martineea/Webprogrammering_obliger/)
+> ### Algoritmer og datastrukturer:
+> - [Mappeeksamen (individuell oppgave)](https://github.com/martineea/Mappeeksamen_AlgDat/)
+> - [Oblig 1 (gruppe på 2)](https://github.com/martineea/AlgDat_Oblig1/)
+> ### Testing av programvare:
+> - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
+</br>
+
+> 2019
+> ### Programutvikling:
+> - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
+> - [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
+</br>
+
+> 2018
+> ### Programmering:
+> - [Obliger (individuell)](https://github.com/martineea/Programmering_obliger/)
+> ### Webprosjekt:
+> - [Mappeksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
+
+
+</br>
+
 ## Språk og verktøy jeg har jobbet med
 (under konstruksjon)
 <details>	
@@ -128,51 +171,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 -->
-
-</br>
-
-## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
-Ta gjerne en titt på prosessen her:
-- [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#) 
-- [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
-
-[![Created Badge](https://badges.pufler.dev/created/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev) </br>
-[![Updated Badge](https://badges.pufler.dev/updated/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
-
-</br>
-
-## Repository til andre fag jeg har jobbet med 🤖 </br>
-
-> 2020
-> ### Webapplikasjoner:
-> - [Semesteroppgave 1/3 og 2/3: Lage en bestillingsside for Nor-Way Bussekspress, og en adminside for vedlikehold av data (gruppeoppgave)](https://github.com/martineea/WebapplikasjonerOppgave1-master/)
-> - [Semesteroppgave 3/3: Lage en FAQ-side (individuell oppgave)](https://github.com/martineea/Webapplikasjoner_3Individuell/)
-> ### Webprogrammering:
-> - [Ukesoppgaver](https://github.com/martineea/Webprogrammering_ukesoppgaver/)
-> - [Obliger (individuell)](https://github.com/martineea/Webprogrammering_obliger/)
-> ### Algoritmer og datastrukturer:
-> - [Mappeeksamen (individuell oppgave)](https://github.com/martineea/Mappeeksamen_AlgDat/)
-> - [Oblig 1 (gruppe på 2)](https://github.com/martineea/AlgDat_Oblig1/)
-> ### Testing av programvare:
-> - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Testing-av-programvare-master/)
-</br>
-
-> 2019
-> ### Programutvikling:
-> - [Semesteroppgave (gruppeoppgave)](https://github.com/martineea/Programutvikling-Semesteroppgave-master/)
-> - [Obliger (individuell)](https://github.com/martineea/Programutvikling_obliger/)
-</br>
-
-> 2018
-> ### Programmering:
-> - [Obliger (individuell)](https://github.com/martineea/Programmering_obliger/)
-> ### Webprosjekt:
-> - [Mappeksamen (gruppeoppgave)](https://github.com/martineea/Webprosjekt_Eksamen/)
-
-
-</br>
-
-
 
 <details>	
   <summary><b>Bare for morro</b></summary>
