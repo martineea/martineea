@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martineea&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=martineea.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=martineea.visitor-badge.issue.1)
+
+
 </br>
 
 ## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
