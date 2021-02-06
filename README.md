@@ -172,6 +172,7 @@ Ta gjerne en titt på prosessen her:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 -->
 
+<hr>
 <details>	
   <summary><b>Bare for morro</b></summary>
   
