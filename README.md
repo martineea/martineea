@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.pufler.dev/visits/martineea/martineea)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/martineea)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/martineea)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/martineea)](https://badges.pufler.dev)
 
 
 
@@ -35,7 +36,9 @@ Ta gjerne en titt på prosessen her:
 - [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
 [![Updated Badge](https://badges.pufler.dev/updated/martineea/bachelorgruppe32.github.io)](https://badges.pufler.dev)
+
 [![Created Badge](https://badges.pufler.dev/created/martineea/bachelorgruppe32.github.io)](https://badges.pufler.dev)
+
 
 </br></br>
 
