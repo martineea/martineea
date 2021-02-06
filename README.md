@@ -15,17 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martineea&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martineea.id)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martineea.visitor-badge.issue.1)
+<!-- Teller: -->
+[![Visits Badge](https://badges.pufler.dev/visits/martineea/martineea)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/martineea)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/martineea)](https://badges.pufler.dev)
+
+
+
 
 
 </br>
 
 ## For tiden jobber jeg med bachelorprosjektet mitt gjennom OsloMet 🎓 </br>
 Ta gjerne en titt på prosessen her:
-- [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#)
+- [Nettside til prosjektet: Wallboard i samarbeid med Zisson (nettsiden er under konstruksjon)](https://bachelorgruppe32.github.io/#) [![Updated Badge](https://badges.pufler.dev/updated/martineea/bachelorgruppe32)](https://badges.pufler.dev)
+
+
 - [Repository til nettsiden](https://github.com/bachelorgruppe32/bachelorgruppe32.github.io)
 
 </br></br>
