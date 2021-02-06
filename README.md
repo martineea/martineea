@@ -69,8 +69,9 @@ Ta gjerne en titt på prosessen her:
 
 </br>
 
-## Språk og verktøy jeg har jobbet med
-(under konstruksjon)
+## Språk og verktøy jeg har jobbet med 
+<i>(under konstruksjon)</i>
+
 <details>	
   <summary><b>Data</b></summary>
   
