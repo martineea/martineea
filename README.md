@@ -36,6 +36,10 @@ Ta gjerne en titt på prosessen her:
 [![Created Badge](https://badges.pufler.dev/created/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev) </br>
 [![Updated Badge](https://badges.pufler.dev/updated/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev) </br>
 
+[![Created Badge](https://badges.pufler.dev/created/bachelorgruppe32/bachelorgruppe32.github.io)](https://badges.pufler.dev)
+
+
+
 </br>
 
 ## Repository til andre fag jeg har jobbet med 🤖 </br>
